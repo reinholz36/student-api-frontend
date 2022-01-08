@@ -27,8 +27,8 @@ List of Instructors: https://student-project-api.herokuapp.com/instructors
 List of Topics: https://student-project-api.herokuapp.com/topics
 ```
 
-Link to live site: https://reinholz36.github.io/student-api-frontend/
+Link to live site: https://reinholz36.github.io/student-api-frontend-/
 
-<a href="https://reinholz36.github.io/student-api-frontend/">
+<a href="https://reinholz36.github.io/student-api-frontend-/">
 <img src="source-image.png" alt="student api frontend" page title">
 </a>
