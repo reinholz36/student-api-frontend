@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 150px;
+    height: 150px;
+
+}
+
+button {
+    flex: 0 32%;
+    height: 100px;
+    margin-bottom: 2%; 
+    width: 30%;
+    margin-left: 2.5%;
+    margin-top: 1rem;
+}
+
+button:hover {
+    box-shadow: 2px 2px 2px black;
+}
+
+button:focus {
+    box-shadow: none;
+}
+
+.content-display {
+    width: 80%;
+    color: white;
+    background-color: rgb(92, 91, 91);
+    padding: 1rem 0;
+    text-align: center;
+    height: 1rem;
+    line-height: 1rem;
+    margin-left: 10%;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+}
